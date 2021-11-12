@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Win32\Day06\WinMutex\main.cpp(14,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\Win32\Day06\WinMutex\main.cpp(28,21): warning C4018: “<”: 有符号/无符号不匹配
+  WinMutex.vcxproj -> E:\Win32\Day06\Day06\Debug\WinMutex.exe
