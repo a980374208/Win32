@@ -1,0 +1,9 @@
+﻿  MyMath.cpp
+E:\Win32\Day05\ClassDll\MyMath.cpp(6,1): warning C4273: “MyMath::Add”: dll 链接不一致
+E:\Win32\Day05\ClassDll\MyMath.h(23,6): message : 参见“Add”的前一个定义
+E:\Win32\Day05\ClassDll\MyMath.cpp(11,1): warning C4273: “MyMath::Mul”: dll 链接不一致
+E:\Win32\Day05\ClassDll\MyMath.h(24,6): message : 参见“Mul”的前一个定义
+E:\Win32\Day05\ClassDll\MyMath.cpp(16,1): warning C4273: “MyMath::Sub”: dll 链接不一致
+E:\Win32\Day05\ClassDll\MyMath.h(25,6): message : 参见“Sub”的前一个定义
+    正在创建库 E:\Win32\Day05\Day05\Debug\ClassDll.lib 和对象 E:\Win32\Day05\Day05\Debug\ClassDll.exp
+  ClassDll.vcxproj -> E:\Win32\Day05\Day05\Debug\ClassDll.dll

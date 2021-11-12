@@ -1,0 +1,5 @@
+﻿  UseCppDll.cpp
+UseCppDll.obj : error LNK2019: 无法解析的外部符号 "int __cdecl CppDll_Add(int,int)" (?CppDll_Add@@YAHHH@Z)，函数 _main 中引用了该符号
+UseCppDll.obj : error LNK2019: 无法解析的外部符号 "int __cdecl CppDll_Mul(int,int)" (?CppDll_Mul@@YAHHH@Z)，函数 _main 中引用了该符号
+UseCppDll.obj : error LNK2019: 无法解析的外部符号 "int __cdecl CppDll_Sul(int,int)" (?CppDll_Sul@@YAHHH@Z)，函数 _main 中引用了该符号
+E:\Win32\Day05\Day05\Debug\UseCppDll.exe : fatal error LNK1120: 3 个无法解析的外部命令
